@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:userLevel;datatype:int,name:userName;datatype:string,name:userPass;datatype:string,name:firstName;datatype:string,name:lastName;datatype:string,name:emailAddress;datatype:string,name:country;datatype:string" />
+	<infoitem key="UD_Recordset2" value="name:iso;datatype:string,name:printable_name;datatype:string" />
+	<infoitem key="UD_Recordset3" value="name:userLevel;datatype:int,name:userName;datatype:string,name:firstName;datatype:string,name:lastName;datatype:string,name:emailAddress;datatype:string,name:country;datatype:string" />
+</info>

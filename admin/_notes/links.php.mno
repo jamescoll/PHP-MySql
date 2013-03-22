@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset2" value="name:linkHeader;datatype:string,name:linkType;datatype:int,name:linkSource;datatype:string,name:linkDate;datatype:date" />
+	<infoitem key="UD_Recordset1" value="name:linkHeader;datatype:string,name:linkUrl;datatype:string,name:linkType;datatype:int" />
+	<infoitem key="UD_Recordset3" value="name:linkHeader;datatype:string,name:linkUrl;datatype:string,name:linkType;datatype:int,name:linkSource;datatype:string,name:linkDate;datatype:date" />
+</info>

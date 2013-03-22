@@ -1,0 +1,1 @@
+[27-Oct-2012 15:30:51] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'msc63cms_user'@'cmsmotion.cmsmotion.com' (using password: NO) in /home/msc63cms/public_html/_mmServerScripts/mysql.php on line 101
